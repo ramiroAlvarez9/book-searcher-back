@@ -1,0 +1,40 @@
+{
+  "kind": "collectionType",
+  "collectionName": "cicloesoterico_libros",
+  "info": {
+    "singularName": "cicloesoterico-libro",
+    "pluralName": "cicloesoterico-libros",
+    "displayName": "cicloesoterico-libros",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "titulo": {
+      "type": "string"
+    },
+    "autor": {
+      "type": "string"
+    },
+    "imagen": {
+      "type": "text"
+    },
+    "sinopsis": {
+      "type": "text"
+    },
+    "youtube": {
+      "type": "string"
+    },
+    "editorial": {
+      "type": "string"
+    },
+    "ebook": {
+      "type": "string"
+    },
+    "libro": {
+      "type": "string"
+    }
+  }
+}

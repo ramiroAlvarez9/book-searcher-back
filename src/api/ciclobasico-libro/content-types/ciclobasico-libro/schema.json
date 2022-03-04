@@ -1,0 +1,40 @@
+{
+  "kind": "collectionType",
+  "collectionName": "ciclobasico_libros",
+  "info": {
+    "singularName": "ciclobasico-libro",
+    "pluralName": "ciclobasico-libros",
+    "displayName": "ciclobasico-libros",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "titulo": {
+      "type": "string"
+    },
+    "autor": {
+      "type": "string"
+    },
+    "imagen": {
+      "type": "text"
+    },
+    "sinopsis": {
+      "type": "text"
+    },
+    "youtube": {
+      "type": "string"
+    },
+    "editorial": {
+      "type": "string"
+    },
+    "ebook": {
+      "type": "string"
+    },
+    "libro": {
+      "type": "string"
+    }
+  }
+}
