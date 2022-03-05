@@ -1,4 +1,4 @@
 module.exports = ({ env }) => ({
-	  url: env('BOOK_LAUNCHER_BACKEND'),
+	  url: env('METAFISICA_LIBROS_URL'),
 });
  
