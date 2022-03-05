@@ -6,4 +6,7 @@ module.exports = ({ env }) => ({
 	},
   });
 
-  APP_KEYS=someSecret,anotherSecret
+  APP_KEYS= 'jP8pb1lYsAhnmURarewxhA==','34xnLMYHY5jiU7ONTstTqQ==''
+
+
+  
