@@ -1,5 +1,5 @@
 module.exports = ({ env }) => ({
-	url: env("METAFISICA_LIBROS_URL"),
+	url: env("BOOK_SEARCHER_URL"),
 	proxy: true,
 	app: {
 		keys: env.array("APP_KEYS"),
